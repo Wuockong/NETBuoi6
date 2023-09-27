@@ -16,7 +16,7 @@ namespace _07_2001210455_BuiQuocCong
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Bai2());
+            Application.Run(new Bai3());
         }
     }
 }

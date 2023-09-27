@@ -8,3 +8,4 @@ C:\Users\Administrator\Desktop\NETBuoi6\07_2001210455_BuiQuocCong\07_2001210455_
 C:\Users\Administrator\Desktop\NETBuoi6\07_2001210455_BuiQuocCong\07_2001210455_BuiQuocCong\obj\Debug\07_2001210455_BuiQuocCong.pdb
 C:\Users\Administrator\Desktop\NETBuoi6\07_2001210455_BuiQuocCong\07_2001210455_BuiQuocCong\obj\Debug\_07_2001210455_BuiQuocCong.Bai1.resources
 C:\Users\Administrator\Desktop\NETBuoi6\07_2001210455_BuiQuocCong\07_2001210455_BuiQuocCong\obj\Debug\_07_2001210455_BuiQuocCong.Bai2.resources
+C:\Users\Administrator\Desktop\NETBuoi6\07_2001210455_BuiQuocCong\07_2001210455_BuiQuocCong\obj\Debug\_07_2001210455_BuiQuocCong.Bai3.resources
