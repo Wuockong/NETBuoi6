@@ -2,8 +2,8 @@ C:\Users\Administrator\Desktop\NETBuoi6\07_2001210455_BuiQuocCong\07_2001210455_
 C:\Users\Administrator\Desktop\NETBuoi6\07_2001210455_BuiQuocCong\07_2001210455_BuiQuocCong\bin\Debug\07_2001210455_BuiQuocCong.exe
 C:\Users\Administrator\Desktop\NETBuoi6\07_2001210455_BuiQuocCong\07_2001210455_BuiQuocCong\bin\Debug\07_2001210455_BuiQuocCong.pdb
 C:\Users\Administrator\Desktop\NETBuoi6\07_2001210455_BuiQuocCong\07_2001210455_BuiQuocCong\obj\Debug\07_2001210455_BuiQuocCong.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\Desktop\NETBuoi6\07_2001210455_BuiQuocCong\07_2001210455_BuiQuocCong\obj\Debug\_07_2001210455_BuiQuocCong.Form1.resources
 C:\Users\Administrator\Desktop\NETBuoi6\07_2001210455_BuiQuocCong\07_2001210455_BuiQuocCong\obj\Debug\_07_2001210455_BuiQuocCong.Properties.Resources.resources
 C:\Users\Administrator\Desktop\NETBuoi6\07_2001210455_BuiQuocCong\07_2001210455_BuiQuocCong\obj\Debug\07_2001210455_BuiQuocCong.csproj.GenerateResource.Cache
 C:\Users\Administrator\Desktop\NETBuoi6\07_2001210455_BuiQuocCong\07_2001210455_BuiQuocCong\obj\Debug\07_2001210455_BuiQuocCong.exe
 C:\Users\Administrator\Desktop\NETBuoi6\07_2001210455_BuiQuocCong\07_2001210455_BuiQuocCong\obj\Debug\07_2001210455_BuiQuocCong.pdb
+C:\Users\Administrator\Desktop\NETBuoi6\07_2001210455_BuiQuocCong\07_2001210455_BuiQuocCong\obj\Debug\_07_2001210455_BuiQuocCong.Bai1.resources
